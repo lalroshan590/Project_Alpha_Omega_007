@@ -1,0 +1,8 @@
+tensorflow
+scikit-learn
+pandas
+numpy
+Flask
+Plotly
+Dash
+pyinstaller
